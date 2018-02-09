@@ -6,10 +6,12 @@ TODO: Describe the installation process
 TODO: Write usage instructions
 ## Contributing
 1. Fork it!
-AQUI He
+
 2. Create your feature branch: `git checkout -b my-new-
 feature`
+
 FUCK YOU BITCHES EAT MY DICK
+
 3. Commit your changes: `git commit -am 'Add some
 feature'`
 4. Push to the branch: `git push origin my-new-feature`
@@ -20,16 +22,11 @@ TODO: Write history
 TODO: Write credits
 ## License
 TODO: Write license
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-<<<<<<< HEAD
-=======
 
->>>>>>> origin/master
-=======
+TODO: Us rebento
 HELLOOOOOOOOOOOOOOOOOO
  EL recatites menja polles com pastanages manchegas
->>>>>>> origin/master
-=======
->>>>>>> origin/master
+
+
+
