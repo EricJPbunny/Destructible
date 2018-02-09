@@ -20,3 +20,4 @@ TODO: Write history
 TODO: Write credits
 ## License
 TODO: Write license
+per aquí ha passat déu omnipotent/pol
