@@ -9,7 +9,7 @@ TODO: Write usage instructions
 AQUI He
 2. Create your feature branch: `git checkout -b my-new-
 feature`
-
+FUCK YOU BITCHES EAT MY DICK
 3. Commit your changes: `git commit -am 'Add some
 feature'`
 4. Push to the branch: `git push origin my-new-feature`
@@ -21,6 +21,11 @@ TODO: Write credits
 ## License
 TODO: Write license
 <<<<<<< HEAD
-per aquí ha passat déu omnipotent/pol
+<<<<<<< HEAD
+
+=======
+HELLOOOOOOOOOOOOOOOOOO
+ EL recatites menja polles com pastanages manchegas
+>>>>>>> origin/master
 =======
 >>>>>>> origin/master
