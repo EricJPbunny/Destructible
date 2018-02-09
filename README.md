@@ -6,7 +6,7 @@ TODO: Describe the installation process
 TODO: Write usage instructions
 ## Contributing
 1. Fork it!
-
+AQUI He
 2. Create your feature branch: `git checkout -b my-new-
 feature`
 
@@ -20,5 +20,8 @@ TODO: Write history
 TODO: Write credits
 ## License
 TODO: Write license
+<<<<<<< HEAD
 
 TODO: Fak u all u fukin nooooobs
+=======
+>>>>>>> origin/master
