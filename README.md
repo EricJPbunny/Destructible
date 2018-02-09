@@ -20,3 +20,5 @@ TODO: Write history
 TODO: Write credits
 ## License
 TODO: Write license
+
+TODO: Fak u all u fukin nooooobs
