@@ -7,7 +7,7 @@ Estem matant el projecte
 ## Contributing
 1. Fork it!
 AQUI He
-hey que tal
+hola, quer us passa apfmosdo
 Bla, bla, bla :)
 3. Commit your changes: `git commit -am 'Add some
 feature'`
