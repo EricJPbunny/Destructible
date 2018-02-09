@@ -10,7 +10,7 @@ hey
 Bla, bla, bla :)
 =======
 1. Fork it!
-
+No hi ha conflicts i want war
 2. Create your feature branch: `git checkout -b my-new-
 feature`
 
@@ -27,9 +27,11 @@ TODO: Write history
 Viva la vida
 ## License
 TODO: Write license
+
+
 TODO: Us rebento
 HELLOOOOOOOOOOOOOOOOOO
  EL recatites menja polles com pastanages manchegas
-HELLOOOOOOOOOOOOOOOOOO
- EL recatites menja polles com pastanages manchegas
+
+
 
