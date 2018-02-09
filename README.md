@@ -3,12 +3,11 @@ TODO: Write a project description
 ## Installation
 TODO: Describe the installation process
 ## Usage
-TODO: Write usage instructions
+Estem matant el projecte
 ## Contributing
 1. Fork it!
 AQUI He
-2. Create your feature branch: `git checkout -b my-new-
-feature`
+hey que tal
 Bla, bla, bla :)
 3. Commit your changes: `git commit -am 'Add some
 feature'`
@@ -17,6 +16,6 @@ feature'`
 ## History
 TODO: Write history
 ## Credits
-TODO: Write credits
+Viva la vida
 ## License
 TODO: Write license
