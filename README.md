@@ -6,7 +6,7 @@ TODO: Describe the installation process
 TODO: Write usage instructions
 ## Contributing
 1. Fork it!
-
+No hi ha conflicts i want war
 2. Create your feature branch: `git checkout -b my-new-
 feature`
 
