@@ -5,9 +5,7 @@ TODO: Describe the installation process
 ## Usage
 Estem matant el projecte
 ## Contributing
-1. Fork it!
-AQUI He
-hola, quer us passa apfmosdo
+hey
 Bla, bla, bla :)
 3. Commit your changes: `git commit -am 'Add some
 feature'`
